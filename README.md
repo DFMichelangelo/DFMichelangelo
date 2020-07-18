@@ -4,8 +4,6 @@ I'm a MSc Finance Student📈 and a Fullstack Javascript Developer in the spare 
 
 # Skills
 
----
-
 - 🔄 Javascript
 - 💻 Node
 - 🎨 React
@@ -13,8 +11,6 @@ I'm a MSc Finance Student📈 and a Fullstack Javascript Developer in the spare 
 - 🐍 Python
 
 # Learning
-
----
 
 - 🌶️ Flask
 - 🖥️ Nginx
