@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Michelangelo🏋️</h1>
 
-I'm a MSc Finance Student 💱 at Università Ca' Foscari di Venezia and a Fullstack Developer 💻 with a particular passion for Timeseries Analysis 📈
+I'm a MSc Finance Student 💱 at Ca' Foscari University of Venice and a Developer 💻 with a particular passion for Timeseries Analysis 📈
 
 <h1 align="center">My Tech Stack</h1>
 
