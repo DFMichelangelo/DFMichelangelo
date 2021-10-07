@@ -1,49 +1,53 @@
-<h1 align="center">Hey! I'm Michelangelo🏋️</h1>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Michelangelo
 
-I'm a MSc Finance Student 💱 at Ca' Foscari University of Venice and a Developer 💻 with a particular passion for Timeseries Analysis 📈
+- 📈 **Quantitative Analyst**, currently dedicated to Credit Risk Modeling
+- 📍 Living in **Münich, Germany**
 
-<h1 align="center">My Tech Stack</h1>
+<br>
+<div align="center">
 
-<h2 align="center">🕸️ Web</h2>
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/michelangelodefrancesco/)
+[![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/michelangelo.defrancesco)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/michelangelo.df/)
 
-<p align="center">
-    <img align="center" src="./media/javascript.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/typescript.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/react.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/node.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/fastapi.svg" alt="michelangelodefrancesco" height="75" width="75" />
-</p>
-<br />
-<h2 align="center">📉 Timeseries Analysis</h2>
+</div>
 
-<p align="center">
-    <img align="center" src="./media/python.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/matlab.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/r.svg" alt="michelangelodefrancescso" height="75" width="75" />
-</p>
-<br />
-<h2 align="center">🛠️ Databases & DevOps</h2>
+### Professional Background 🛠️
 
-<p align="center">
-    <img align="center" src="./media/mysql.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/postgresql.svg" alt="michelangelodefrancesco" height="75" width="75" />
-    <img align="center" src="./media/docker.svg" alt="michelangelodefrancesco" height="75" width="75" />
-</p>
-<br /><br />
-<h2 align="center">Follow Me!</h2>
-<p align="center">
-    <a 
-        href="https://linkedin.com/in/michelangelodefrancesco" target="blank">
-            <img align="center" src="./media/linkedin.svg" alt="michelangelodefrancesco" height="30" width="30" />
-    </a>
-    <a 
-        href="https://fb.com/michelangelo.defrancesco" 
-        target="blank">
-            <img align="center" src="./media/facebook.svg" alt="michelangelo.defrancesco" height="30" width="30"/>
-    </a>
-    <a 
-        href="https://instagram.com/michelangelo.df" 
-        target="blank">
-        <img align="center" src="./media/instagram.svg" alt="michelangelo.df" height="30" width="30" />
-    </a>
-</p>
+- <img align="left" src="./assets/Unicredit.png" /> 
+    <strong>Quantitative Analyst</strong> - Credit Risk Modeling
+    <br>
+    <em>Unicredit HypoVereinsbank</em>
+
+* <img align="left" src="./assets/CaFoscari.png" /> <strong>Research Assistant</strong>
+  <br>
+  <em>Ca' Foscari University of Venice</em>
+
+* <img align="left" src="./assets/Chiron.png" /> <strong>Software Engineer</strong>
+  <br>
+  <em>Chiron - Agile Data Science</em>
+
+* <img align="left" src="./assets/Cryptoforecast.png" /> <strong>Fullstack Quantitative Developer</strong>
+  <br>
+  <em>Cryptoforecast</em>
+
+* <img align="left" src="./assets/PlanetOfFinance.png" /> <strong>Business Analyst</strong>
+  <br>
+  <em>Planet of Finance</em>
+
+### Academic Background 🎓
+
+- <img align="left" src="./assets/CaFoscari.png" /> <strong>MSc Finance</strong>
+  <br>
+  <em>Ca' Foscari University of Venice</em>
+
+- <img align="left" src="./assets/CaFoscari.png" > <strong>BSc Economics</strong>
+  <br>
+  <em>Ca' Foscari University of Venice</em>
+
+### Tech Stack 💻
+
+- **Data Anaylsis**: Python, Matlab, SQL, SAS, R, Docker
+- **Web**: Javascript, Typescript, React (HTML5, CSS3, SASS), Node, FastAPI
+- **Databases**: MySQL, PostgreSQL
+- **Other**: Docker, CI/CD Pipelices, Jira, Jupyter
