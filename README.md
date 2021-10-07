@@ -47,7 +47,7 @@
 
 ### Tech Stack 💻
 
-- **Data Anaylsis**: Python, Matlab, SQL, SAS, R, Docker
-- **Web**: Javascript, Typescript, React (HTML5, CSS3, SASS), Node, FastAPI
+- **Data Anaylsis**: Python, Matlab, SAS, SQL, R
+- **Web**: Javascript, Typescript, Node, React (HTML5, CSS3, SASS), FastAPI
 - **Databases**: MySQL, PostgreSQL
 - **Other**: Docker, CI/CD Pipelices, Jira, Jupyter
