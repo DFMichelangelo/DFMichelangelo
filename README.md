@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Michelangelo
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Michelangelo
 
 - 📈 **Quantitative Analyst**, currently dedicated to Credit Risk Modeling
 - 📍 Living in **Münich, Germany**
@@ -14,34 +14,34 @@
 
 ### Professional Background 🛠️
 
-- <img align="left" src="./assets/Unicredit.png" /> 
+- <img align="left" src="./media/Unicredit.png" /> 
     <strong>Quantitative Analyst</strong> - Credit Risk Modeling
     <br>
     <em>Unicredit HypoVereinsbank</em>
 
-* <img align="left" src="./assets/CaFoscari.png" /> <strong>Research Assistant</strong>
+* <img align="left" src="./media/CaFoscari.png" /> <strong>Research Assistant</strong>
   <br>
   <em>Ca' Foscari University of Venice</em>
 
-* <img align="left" src="./assets/Chiron.png" /> <strong>Software Engineer</strong>
+* <img align="left" src="./media/Chiron.png" /> <strong>Software Engineer</strong>
   <br>
   <em>Chiron - Agile Data Science</em>
 
-* <img align="left" src="./assets/Cryptoforecast.png" /> <strong>Fullstack Quantitative Developer</strong>
+* <img align="left" src="./media/Cryptoforecast.png" /> <strong>Fullstack Quantitative Developer</strong>
   <br>
   <em>Cryptoforecast</em>
 
-* <img align="left" src="./assets/PlanetOfFinance.png" /> <strong>Business Analyst</strong>
+* <img align="left" src="./media/PlanetOfFinance.png" /> <strong>Business Analyst</strong>
   <br>
   <em>Planet of Finance</em>
 
 ### Academic Background 🎓
 
-- <img align="left" src="./assets/CaFoscari.png" /> <strong>MSc Finance</strong>
+- <img align="left" src="./media/CaFoscari.png" /> <strong>MSc Finance</strong>
   <br>
   <em>Ca' Foscari University of Venice</em>
 
-- <img align="left" src="./assets/CaFoscari.png" > <strong>BSc Economics</strong>
+- <img align="left" src="./media/CaFoscari.png" > <strong>BSc Economics</strong>
   <br>
   <em>Ca' Foscari University of Venice</em>
 
