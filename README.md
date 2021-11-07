@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/michelangelodefrancesco/)
+[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/DFMichelangelo/)
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/michelangelo.defrancesco)
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/michelangelo.df/)
 
@@ -47,7 +47,7 @@
 
 ### Tech Stack 💻
 
-- **Data Anaylsis**: Python, Matlab, SAS, SQL, R
+- **Data Anaylsis**: Python(Primary Language -  pandas, numPy, sciPy, statsmodel), Matlab, SAS, SQL, R
 - **Web**: Javascript, Typescript, Node, React (HTML5, CSS3, SASS), FastAPI
 - **Databases**: MySQL, PostgreSQL
 - **Other**: Docker, CI/CD Pipelices, Jira, Jupyter
