@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Michelangelo
+## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Michelangelo
 
 - 📈 **Quantitative Analyst**, currently dedicated to Credit Risk Modeling
 - 📍 Living in **Münich, Germany**
@@ -49,7 +49,7 @@
 
 ### Tech Stack 💻
 
-- **Data Anaylsis**: Python(Primary Language -  pandas, numPy, sciPy, statsmodel), Matlab, SAS, SQL, R
+- **Data Anaylsis**: Python (*Primary Language* -  pandas, numPy, sciPy, statsmodel), Matlab, SAS, SQL, R
 - **Web**: Javascript, Typescript, Node, React (HTML5, CSS3, SASS), FastAPI
 - **Databases**: MySQL, PostgreSQL
 - **Other**: Docker, CI/CD Pipelices, Jira, Jupyter
