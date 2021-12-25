@@ -14,7 +14,7 @@
 
 </div>
 
-### Professional Background 🛠️
+### 🛠️ Professional Background 
 
 - <img align="left" src="./media/Unicredit.png" /> 
     <strong>Quantitative Analyst</strong> - Credit Risk Modeling
@@ -37,7 +37,7 @@
   <br>
   <em>Planet of Finance</em>
 
-### Academic Background 🎓
+### 🎓 Academic Background 
 
 - <img align="left" src="./media/CaFoscari.png" /> <strong>MSc Finance</strong>
   <br>
@@ -47,9 +47,16 @@
   <br>
   <em>Ca' Foscari University of Venice</em>
 
-### Tech Stack 💻
+### 💻 Tech Stack
 
-- **Data Anaylsis**: Python (*Primary Language* -  pandas, numPy, sciPy, statsmodel), Matlab, SAS, SQL, R
+- **Data Anaylsis**: Python (*Primary Language* -  pandas, numPy, sciPy, statsmodel), Matlab, SQL, SAS,  R, basic Java.
 - **Web**: Javascript, Typescript, Node, React (HTML5, CSS3, SASS), FastAPI
 - **Databases**: MySQL, PostgreSQL
 - **Other**: Docker, CI/CD Pipelices, Jira, Jupyter
+
+### 📦 My Projects
+| Project | Description  | Status | Links  | 
+|--------------|---|---|---|
+| **PERN Docker Boilerplate** | PERN Boilerplate for the development and go-prod of a Progressive Web App with Docker and CI/CD integrated <br><br>**Stack**: Javascript (Typescript), Node, SQL, React (HTML5, CSS3, SASS), Docker, PostgreSQL |  <div align="center">PRODUCTION<br>-<br>COMPLETED</div> | <ul><li>WebApp:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=flat&logoColor=black&color=white)](https://apppern.netlify.app/)<br>[![](https://img.shields.io/badge/-Repository-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-WebApp)</li><li>Admin:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=flat&logoColor=black&color=white)](https:/adminpern.netlify.app/)<br>[![](https://img.shields.io/badge/-Repository-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Admin)</li><li>Backend:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=flat&logoColor=black&color=white)](https://pern-boilerplate-backend.herokuapp.com/)<br>[![](https://img.shields.io/badge/-Repository-informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Backend)</li></ul> |
+
+
