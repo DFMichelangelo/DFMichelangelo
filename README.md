@@ -52,10 +52,10 @@
 
 ### 💻 Tech Stack
 
-- **Programming Languages**: Python, Matlab, SQL, SAS,  R, Java, Scala
+- **Programming Languages**: Python, Java, Scala, Matlab, SQL, SAS, R
 - **Web Programming Languages**: Javascript, Typescript, Node, React, FastAPI
-- **Databases**: MySQL, PostgreSQL
-- **Other**: Docker, CI/CD Pipelices, Jira, Jupyter
+- **Databases**: MySQL, PostgreSQL, Kdb/q, Clickhouse 
+- **Other**: Docker, CI/CD Pipelines, Grafana, SBE & FIX Protocols
 
 ### 📦 My Projects
 | Project | Description                                                        | Stack                                                                | Status                                                 | Links                                                            |
