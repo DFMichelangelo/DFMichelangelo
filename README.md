@@ -52,6 +52,8 @@
 ### 💻 Tech Stack
  
 - **Main Stack**\
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+ <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 - **Web Stack**\
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -64,15 +66,14 @@
 - **Tools**\
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
-
+<!--<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> -->
 
 - **Other**\
- CI/CD Pipelines, SBE & FIX Protocols
+ CI/CD, SBE
 
 ### 📦 My Projects
 | Project | Description | Stack | Links |
 | ------- | ----------- | ----- | ----- |
 | **BackTestify**             | Backtesting platform for algorithmic trading strategies                                                    | <ul><li>**Backtester Engine**: Python, FastAPI, Github Actions<li>**Infrastructure**: PERN Boilerplate</li></ul> | <ul><li>Backtester Engine:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify-backtester-engine.herokuapp.com/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-Backtester-Engine)<li>WebApp:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-WebApp)</li><li>Admin:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify-admin.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-Admin)</li><li>Backend:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify-backend.herokuapp.com/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-Backend)</li></ul> |
 | **PERN Docker Boilerplate** | Simple Template for Project Bootstrap | Javascript (Typescript), Node, SQL, React                                                                                                 |  <ul><li>WebApp:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://apppern.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-WebApp)</li><li>Admin:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https:/adminpern.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Admin)</li><li>Backend:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://pern-boilerplate-backend.herokuapp.com/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Backend)</li></ul>                                                                                                                                   |
-
 
