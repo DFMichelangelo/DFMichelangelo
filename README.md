@@ -1,7 +1,7 @@
 ## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Michelangelo
 
-- 📈 **E-Trading FX Quant**, currently dedicated to the development of low-latency Pricing Engines for FX Market
-- 📍 Living in **Milan, Italy**
+- 📈 **Quantitative Research Analyst**, currently dedicated to the development of low-latency Pricing Engines for eRates Market
+- 📍 Living in **London, UK**
 
 <div align="center">
 
@@ -13,6 +13,11 @@
 
 ### 🛠️ Professional Background 
 
+* <img align="left" src="./media/SMBC.png" /> 
+    <strong>Quantitative Research Analyst</strong>
+    <br>
+    <em>SMBC</em>
+
 - <img align="left" src="./media/Unicredit.png" /> 
     <strong>E-Trading FX Quant</strong>
     <br>
@@ -23,7 +28,7 @@
     <br>
     <em>UniCredit HypoVereinsbank</em>
 
-* <img align="left" src="./media/CaFoscari.png" /> <strong>Research Assistant</strong>
+- <img align="left" src="./media/CaFoscari.png" /> <strong>Research Assistant</strong>
   <br>
   <em>Ca' Foscari University of Venice</em>
 
@@ -31,7 +36,7 @@
   <br>
   <em>Chiron - Agile Data Science</em>
 
-* <img align="left" src="./media/Cryptoforecast.png" /> <strong>Fullstack Quantitative Developer</strong>
+- <img align="left" src="./media/Cryptoforecast.png" /> <strong>Fullstack Quantitative Developer</strong>
   <br>
   <em>Cryptoforecast</em>
 
@@ -71,9 +76,11 @@
 - **Other**\
  CI/CD, SBE
 
+<!--
 ### 📦 My Projects
 | Project | Description | Stack | Links |
 | ------- | ----------- | ----- | ----- |
 | **BackTestify**             | Backtesting platform for algorithmic trading strategies                                                    | <ul><li>**Backtester Engine**: Python, FastAPI, Github Actions<li>**Infrastructure**: PERN Boilerplate</li></ul> | <ul><li>Backtester Engine:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify-backtester-engine.herokuapp.com/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-Backtester-Engine)<li>WebApp:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-WebApp)</li><li>Admin:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify-admin.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-Admin)</li><li>Backend:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://backtestify-backend.herokuapp.com/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/BackTestify-Backend)</li></ul> |
 | **PERN Docker Boilerplate** | Simple Template for Project Bootstrap | Javascript (Typescript), Node, SQL, React                                                                                                 |  <ul><li>WebApp:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://apppern.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-WebApp)</li><li>Admin:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https:/adminpern.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Admin)</li><li>Backend:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://pern-boilerplate-backend.herokuapp.com/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Backend)</li></ul>                                                                                                                                   |
 
+-->
