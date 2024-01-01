@@ -75,7 +75,6 @@
 
 - **Other**\
  CI/CD, SBE
-<<<<<<< HEAD
 
 <!--
 ### 📦 My Projects
@@ -85,5 +84,4 @@
 | **PERN Docker Boilerplate** | Simple Template for Project Bootstrap | Javascript (Typescript), Node, SQL, React                                                                                                 |  <ul><li>WebApp:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://apppern.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-WebApp)</li><li>Admin:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https:/adminpern.netlify.app/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Admin)</li><li>Backend:<br>[![](https://img.shields.io/badge/-🌎_Website-informational?style=for-the-badge&logoColor=black&color=white)](https://pern-boilerplate-backend.herokuapp.com/)[![](https://img.shields.io/badge/-Repository-informational?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/DFMichelangelo/PERN-Docker-Boilerplate-Backend)</li></ul>                                                                                                                                   |
 
 -->
-=======
->>>>>>> afacbef9f29e345faa5d414ded2d02c3c367a393
+
