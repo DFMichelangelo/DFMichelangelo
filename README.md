@@ -14,12 +14,12 @@
 ### 🛠️ Professional Background 
 
 * <img align="left" src="./media/SMBC.png" /> 
-    <strong>Quantitative Research Analyst</strong>
+    <strong>eRates Quantitative Research Analyst</strong>
     <br>
     <em>SMBC</em>
 
 - <img align="left" src="./media/Unicredit.png" /> 
-    <strong>E-Trading FX Quant</strong>
+    <strong>eFX Quant</strong>
     <br>
     <em>UniCredit Bank</em>
 
