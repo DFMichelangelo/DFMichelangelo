@@ -14,7 +14,7 @@
 ### 🛠️ Professional Background 
 
 * <img align="left" src="./media/SMBC.png" /> 
-    <strong>eRates Quantitative Research Analyst</strong>
+    <strong>eRates Quant</strong>
     <br>
     <em>SMBC</em>
 
@@ -39,10 +39,6 @@
 - <img align="left" src="./media/Cryptoforecast.png" /> <strong>Fullstack Quantitative Developer</strong>
   <br>
   <em>Cryptoforecast</em>
-
-* <img align="left" src="./media/PlanetOfFinance.png" /> <strong>Assistant Project Manager</strong>
-  <br>
-  <em>Planet of Finance</em>
 
 ### 🎓 Academic Background 
 
