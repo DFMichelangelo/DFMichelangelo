@@ -1,6 +1,6 @@
 ## Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Michelangelo
 
-- 📈 **Quantitative Research Analyst**, currently dedicated to the development of low-latency Pricing Engines for eRates Market
+- 📈 **Quant**, currently dedicated to eRates Systematic Trading
 - 📍 Living in **London, UK**
 
 <div align="center">
@@ -14,12 +14,12 @@
 ### 🛠️ Professional Background 
 
 * <img align="left" src="./media/SMBC.png" /> 
-    <strong>eRates Quant</strong>
+    <strong>eRates Quant - Systematic Trading</strong>
     <br>
     <em>SMBC</em>
 
 - <img align="left" src="./media/Unicredit.png" /> 
-    <strong>eFX Quant</strong>
+    <strong>eFX Quant - Systematic Trading</strong>
     <br>
     <em>UniCredit Bank</em>
 
