@@ -21,12 +21,12 @@
 - <img align="left" src="./media/Unicredit.png" /> 
     <strong>eFX Quant - Systematic Trading</strong>
     <br>
-    <em>UniCredit Bank</em>
+    <em>UniCredit</em>
 
 * <img align="left" src="./media/Unicredit.png" /> 
-    <strong>Quantitative Analyst</strong> - Credit Risk Modeling
+    <strong>Quantitative Analyst - Credit Risk Modeling</strong>
     <br>
-    <em>UniCredit HypoVereinsbank</em>
+    <em>UniCredit</em>
 
 - <img align="left" src="./media/CaFoscari.png" /> <strong>Research Assistant</strong>
   <br>
@@ -36,7 +36,7 @@
   <br>
   <em>Chiron - Agile Data Science</em>
 
-- <img align="left" src="./media/Cryptoforecast.png" /> <strong>Fullstack Quantitative Developer</strong>
+- <img align="left" src="./media/Cryptoforecast.png" /> <strong>Quantitative Developer</strong>
   <br>
   <em>Cryptoforecast</em>
 
@@ -67,6 +67,9 @@
 - **Tools**\
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
 <!--<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> -->
 
 - **Other**\
